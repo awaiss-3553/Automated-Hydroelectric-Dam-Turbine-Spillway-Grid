@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1795534264 source:c:\users\user\downloads\automated-hydroelectric-dam-turbine-spillway-grid\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
